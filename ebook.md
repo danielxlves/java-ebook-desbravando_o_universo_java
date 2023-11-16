@@ -114,23 +114,16 @@ Os programas Java são frequentemente distribuídos em arquivos JAR. Esses arqui
 
 *Esta é, sem dúvida, a minha parte preferida de cada módulo, é onde podemos vislumbrar a visão cósmica do Java e seus potenciais. Essa parte é onde a didática se torna tão cativante quanto um encontro com alienígenas amigáveis que compartilham truques e dicas de codificação em um fórum intergaláctico.*
 
-### *A Nave-mãe dos Desenvolvedores*
 *A JDK é a nave-mãe dos desenvolvedores Java, equipada com todas as ferramentas essenciais para explorar o vasto universo da programação. Como uma espaçonave completa, o JDK inclui a JVM para a execução, o compilador (javac) para traduzir códigos-fonte em bytecode e uma gama de bibliotecas para manipulação de dados e operações diversas. É o kit de sobrevivência para quem se aventura no cosmos da codificação.*
 
-### *A Mecânica Silenciosa na Nave do Desenvolvimento*
 *A JRE é a mecânica silenciosa na nave do desenvolvimento Java, proporcionando a funcionalidade essencial para que a nave operacional do JDK possa viajar pelo vasto universo da programação. Enquanto o JDK é a nave que os desenvolvedores pilotam, a JRE é a engenharia interna que mantém tudo funcionando. É como ter a maquinaria vital que permite aos habitantes dos planetas (usuários finais) lerem, interpretarem e interajam o que está acontecendo no cosmos da programação, sem precisar compreender os intricados detalhes da construção da nave. A JRE é a garantia de que, mesmo sem pilotar a nave, todos possam desfrutar das maravilhas cósmicas que a programação Java oferece.*
 
-### *O Super-herói Multilíngue*
 *A JVM é o nosso super-herói multilíngue do Java, traduzindo o código nativo para bytecode, garantindo que o mesmo código funcione em qualquer planeta do universo computacional. Como um tradutor da torre de Babel que traduz o idioma java para todos os maquinários, a JVM adapta-se a diferentes línguas (sistemas operacionais e arquiteturas) para garantir a compreensão do código.*
 
-### *A Habilidade de Ajustar-se aos Ambientes Cósmicos*
 *Assim como um tradutor hábil em um intercâmbio intergaláctico, a JVM atua como um tradutor cósmico que vai além de simplesmente converter código fonte. Imagine que, ao explorar um novo planeta (executar um programa), esse tradutor cósmico não apenas traduz as palavras (código fonte), mas também aprimora a escolha de palavras, ajustando o contexto para melhor se adequar à língua local (hardware e sistema operacional). É como se a JVM fosse um tradutor estelar que não apenas comunica informações, mas refinando-as para garantir uma compreensão mais profunda e uma execução mais eficaz em terras desconhecidas do vasto universo da programação Java.*
 
-###  *O Idioma Universal do Universo Java*
 *O bytecode é o idioma universal do universo Java, uma linguagem intermediária independente de plataformas. É como ter manuscritos cósmicos que podem ser interpretados pela JVM em qualquer planeta distinto, permitindo que desenvolvedores escrevam código uma vez e o executem em qualquer lugar.*
 
-### *O Lema Encantado dos Desenvolvedores Cósmicos Java*
 *O princípio "Write Once, Run Anywhere" é mais do que um lema; é o encantamento que permeia o ethos dos desenvolvedores cósmicos Java. A magia reflete em escrever o código em Java uma vez e testemunhar sua execução em qualquer canto do universo digital. É um juramento unificador entre os desenvolvedores estelares, transcendendo as fronteiras dos sistemas operacionais e arquiteturas como se fosse um pacto cósmico que transforma o ato de programar em uma experiência verdadeiramente intergaláctica.*
 
-### *O Pacote Estelar da Distribuição Universal*
 *Os arquivos JAR são como os pacotes estelares do Java, representando os resultados das jornadas do desenvolvimento do código. Cada JAR é como um pacote intergaláctico, contendo não apenas o bytecode gerado, mas também informações essenciais sobre como a aplicação deve se desdobrar. Imagine-os como manuais universais, prontos para serem interpretados em qualquer sistema operacional ou arquitetura, simplificando a distribuição e execução da aplicação desenvolvida. O JAR é, assim, o testamento cósmico da jornada do código Java, pronto para ser compartilhado em qualquer canto do vasto universo.*
