@@ -5,7 +5,7 @@ Bem-vindo(a) ao e-book completo sobre os conceitos básicos da linguagem de prog
 
 ## Tópicos Concluídos:
 
-- [x] **Portabilidade do Java:**   Em meio ao vasto cosmos da programação, o Java se destaca como uma espaçonave universal, entendendo como é composta essa espaçonave e sua capacidade de ser executado em diferentes ambientes é como uma mágica intergaláctica. 
+- [x] **Portabilidade do Java:**   Em meio ao vasto cosmos da programação, o Java se destaca como uma espaçonave universal, aqui entende-se como é composta essa espaçonave e sua capacidade de ser executado em diferentes ambientes é como uma mágica intergaláctica. 
 
 
 
