@@ -1,6 +1,6 @@
 # README - Desbravando o Universo Java 🚀💻
 
-Bem-vindo(a) ao e-book completo sobre os conceitos básicos da linguagem de programação Java! Este documento abrange diversos aspectos dessa linguagem poderosa que conquistou não apenas os terráqueos, mas também atraiu a atenção de seres intergalácticos. Abaixo está um resumo dos tópicos concluídos e que estão aguardando a conclusão:
+Bem-vindo(a) ao e-book completo sobre os conceitos básicos da linguagem de programação Java! Este documento abrange diversos aspectos dessa linguagem poderosa que conquistou não apenas os terráqueos, mas também atraiu a atenção de seres intergalácticos. Abaixo está um resumo dos tópicos concluídos e os que estão aguardando a conclusão:
 
 
 ## Tópicos Concluídos:
