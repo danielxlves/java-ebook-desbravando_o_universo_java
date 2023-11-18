@@ -8,12 +8,12 @@
 ## Características Principais:
 
 - **Portabilidade:** Os programas Java podem ser executados em qualquer dispositivo que tenha uma máquina virtual Java (JVM) instalada, aqui entra o uso do bytecode.
+  
+- **Sintaxe Simples e Clara:** A sintaxe do Java é derivada principalmente da linguagem C++, tornando-a familiar para muitos desenvolvedores.
 
 - **Modernização Java:** Java evolui para incorporar recursos contemporâneos, promovendo inovação e adaptabilidade
 
 - **Coleta de Lixo (Garbage Collection):** Java tem um sistema automático de gerenciamento de memória.
-
-- **Sintaxe Simples e Clara:** A sintaxe do Java é derivada principalmente da linguagem C++, tornando-a familiar para muitos desenvolvedores.
 
 - **Biblioteca Padrão Rica:** Java vem com uma extensa biblioteca padrão (também conhecida como API - Application Programming Interface).
 
