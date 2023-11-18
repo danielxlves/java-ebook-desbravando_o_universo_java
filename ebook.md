@@ -9,7 +9,7 @@
 
 - **Portabilidade:** Os programas Java podem ser executados em qualquer dispositivo que tenha uma máquina virtual Java (JVM) instalada, aqui entra o uso do bytecode.
 
-- **Multithreading:** Java suporta programação concorrente com o uso de threads.
+- **Modernização Java:** Java evolui para incorporar recursos contemporâneos, promovendo inovação e adaptabilidade
 
 - **Coleta de Lixo (Garbage Collection):** Java tem um sistema automático de gerenciamento de memória.
 
@@ -24,6 +24,8 @@
 - **Orientação a Objetos:** Java é uma linguagem totalmente orientada a objetos.
 
 - **Segurança:** Incorpora recursos de segurança para proteger contra ameaças.
+
+- **Multithreading:** Java suporta programação concorrente com o uso de threads.
 
 - **Plataformas e ambientes de desenvolvimento em Java:** Java SE, Java EE, Java ME, Spring Framework, Android, Grails, Play Framework, JavaFX.
 
