@@ -11,8 +11,6 @@ Bem-vindo(a) ao e-book completo sobre os conceitos básicos da linguagem de prog
 
 ## Tópicos em Desenvolvimento:
 
-- [ ] **Multithreading:** Exploraremos como o Java suporta programação concorrente por meio do uso de threads. 
-
 - [ ] **Sintaxe Simples e Clara:** A sintaxe do Java é derivada principalmente da linguagem C++, tornando-a familiar para muitos desenvolvedores.
 
 - [ ] **Modernização da Linguagem:** Versões mais recentes: Características e melhorias em versões recentes.
@@ -28,5 +26,7 @@ Bem-vindo(a) ao e-book completo sobre os conceitos básicos da linguagem de prog
 - [ ] **Orientação a Objetos:** Descubra como o Java é uma linguagem totalmente orientada a objetos, promovendo a reutilização de código e a modularidade.
 
 - [ ] **Segurança:** Saiba mais sobre os recursos de segurança incorporados ao Java para proteger contra ameaças.
+
+- [ ] **Multithreading:** Exploraremos como o Java suporta programação concorrente por meio do uso de threads. 
 
 - [ ] **Plataformas e Ambientes de Desenvolvimento em Java:** Explore as diferentes plataformas e ambientes de desenvolvimento, como Java SE, Java EE, Java ME, Spring Framework, Android, Grails, Play Framework, JavaFX. 
