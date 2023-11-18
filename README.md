@@ -13,9 +13,9 @@ Bem-vindo(a) ao e-book completo sobre os conceitos básicos da linguagem de prog
 
 - [ ] **Multithreading:** Exploraremos como o Java suporta programação concorrente por meio do uso de threads. 
 
-- [ ] **Coleta de Lixo (Garbage Collection):** Descubra como o Java gerencia automaticamente a memória, eliminando a necessidade de se preocupar com alocação e desalocação de memória. 
+- [ ] **Sintaxe Simples e Clara:** A sintaxe do Java é derivada principalmente da linguagem C++, tornando-a familiar para muitos desenvolvedores.
 
-- [ ] **Sintaxe Simples e Clara:** A sintaxe do Java é derivada principalmente da linguagem C++, tornando-a familiar para muitos desenvolvedores. 
+- [ ] **Coleta de Lixo (Garbage Collection):** Descubra como o Java gerencia automaticamente a memória, eliminando a necessidade de se preocupar com alocação e desalocação de memória. 
 
 - [ ] **Biblioteca Padrão Rica:** Java vem com uma extensa biblioteca padrão, também conhecida como API (Application Programming Interface).
 
