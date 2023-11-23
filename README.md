@@ -17,7 +17,7 @@ Bem-vindo(a) ao e-book completo sobre os conceitos básicos da linguagem de prog
 
 - [ ] **Coleta de Lixo (Garbage Collection):** Descubra como o Java gerencia automaticamente a memória, eliminando a necessidade de se preocupar com alocação e desalocação de memória. 
 
-- [ ] **Biblioteca Padrão Rica:** Java vem com uma extensa biblioteca padrão, também conhecida como API (Application Programming Interface).
+- [ ] **Biblioteca Padrão Rica:** Java vem com uma extensa biblioteca padrão, também conhecida como Java API (Application Programming Interface).
 
 - [ ] **Tratamento de Exceções:** Entenda como o Java oferece um sistema robusto de tratamento de exceções para lidar com situações imprevistas. 
 
